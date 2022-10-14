@@ -1,8 +1,6 @@
 import React from "react";
 
-import pic1 from './home1.jpg'
-import pic2 from './home2.png'
-import pic3 from './home3.jpg'
+
 
 import music from './music2.png';
 import play from './play.png'
